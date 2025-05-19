@@ -22,11 +22,9 @@ Setiap anggota berperan dalam proses perencanaan, implementasi, serta pengujian 
 
 Beberapa tools dan teknologi yang digunakan dalam proyek ini antara lain:
 
-- **JUnit** – Unit Testing untuk Java
-- **Espresso / UI Automator** – UI Testing untuk Android
-- **Mockito** – Mocking Framework
-- **Postman** – API Testing
 - **Git & GitHub** – Version Control dan Kolaborasi
+- **Selenium** - UI testing framework
+- TBD
 
 ## 📌 Cakupan Pengujian
 
