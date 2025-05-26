@@ -9,9 +9,9 @@ Kelompok ini terdiri dari beberapa mahasiswa aktif Universitas Lampung:
 
 - **Aditya Johansah** – 2215061039  
 - **Den Muhammad Wyzdan Alfarizy** – 2215061003
-- [Nama Anggota 3] – 2215061XXX  
-- [Nama Anggota 4] – 2215061XXX  
-- [Nama Anggota 5] – 2215061XXX  
+- **Rey Gafriela Naibaho** – 2215061067 
+- **Eric Rizki Febrian** – 2215061075  
+- **yosi Arjunita Putri** – 2215061095  
 
 ## 🎯 Tujuan Proyek
 
